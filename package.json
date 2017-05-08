@@ -36,7 +36,7 @@
     "babel-core": "^6.22.1",
     "babel-plugin-syntax-jsx": "^6.18.0",
     "babel-preset-react": "^6.22.0",
-    "js-yaml": "^3.7.0",
+    "js-yaml": "^3.8.4",
     "loader-utils": "^1.0.2",
     "lodash.isplainobject": "^4.0.4",
     "react-dom": "^15.4.2",
